@@ -1,0 +1,2 @@
+# FileWriting
+This program accepts a file containing student id's and grades with ".csv extension" and parses through the data. Afterwards it calculates the minimum, average, maximum, population standard deviation, standard deviation, mode and sorts the grades into an histogram. It also renames the ".csv " extension to an ".stat". If the given file is missing a ".csv" extension to begin with the program will add it. Error checking is also included in this program  
